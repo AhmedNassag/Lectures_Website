@@ -9,7 +9,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 			  		</button>
-			  		<a class="navbar-brand" href="#">El-Nassag <span>Edu.</span></a>
+			  		<a class="navbar-brand" href="home.php">El-Nassag <span>Edu.</span></a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
